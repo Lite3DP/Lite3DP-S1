@@ -5,5 +5,5 @@ While we plan to create Mac and Linux versions, it is currently only available f
 As an alternative to this software, the following steps can be carried out:
 
 1) Unzip the ZIP file from Chitubox. This contains numbered PNG images.
-2) Use batch conversion software to convert PNG images to 24-bit BMP images.
-3) Create a folder on the micro SD card (its name will be the one that will be selected from the Lite3DP) and copy all the BMP images there.
+2) Use batch conversion software to convert all PNG images to 24-bit BMP images.
+3) Create a folder on the micro SD card and copy all the BMP images there. The name of this folder will appear on the Lite3DP to be selected.
