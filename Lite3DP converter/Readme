@@ -1,9 +1,9 @@
 This software was created to facilitate the process of converting and saving layer images for 3D printing.
 
-While we plan to create Mac and Linux versions, it is currently only available for windows.
+While we plan to create Mac and Linux versions, it is currently only available for Windows.
 
 As an alternative to this software, the following steps can be carried out:
 
 1) Unzip the ZIP file from Chitubox. This contains numbered PNG images.
-2) Use batch image conversion software to convert all PNG images to 24-bit BMP images. There are many alternatives for MAC and LINUX.
+2) Use batch image conversion software to convert all PNG images to 24-bit BMP images. There are many alternatives for Mac and Linux.
 3) Create a folder on the micro SD card and copy all the BMP images there. The name of this folder will appear on the Lite3DP to be selected.
