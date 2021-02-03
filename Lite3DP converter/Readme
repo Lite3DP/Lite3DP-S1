@@ -1,6 +1,6 @@
 This software was created to facilitate the process of converting and saving layer images for 3D printing.
 
-It is currently only available for Windows and Linux (February 3, 2021 update).
+It is currently available for Windows and Linux (February 3, 2021 update).
 
 Note for Linux: works with Debian / Ubuntu on desktop computers. Requires the "unzip" command.
 
