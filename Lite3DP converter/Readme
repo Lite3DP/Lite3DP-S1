@@ -2,8 +2,10 @@ This software was created to facilitate the process of converting and saving lay
 
 It is currently only available for Windows and Linux (February 3, 2021 update).
 
+Note for Linux: works with Debian / Ubuntu on desktop computers. Requires the "unzip" command.
+
 As an alternative to this software, the following steps can be carried out:
 
 1) Unzip the ZIP file from Chitubox. This contains numbered PNG images.
-2) Use batch image conversion software to convert all PNG images to 24-bit BMP images. There are many alternatives for Mac and Linux.
+2) Use batch image conversion software to convert all PNG images to 24-bit BMP images.
 3) Create a folder on the micro SD card and copy all the BMP images there. The name of this folder will appear on the Lite3DP to be selected.
