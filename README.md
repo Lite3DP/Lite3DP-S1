@@ -21,3 +21,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 For additional information, please visit: https://lite3dp.com/download.html
+
+Visit for instructions: https://www.instructables.com/Lite3DP-S1-MSLA-3D-Printer-Arduino-Based-and-Open-/
