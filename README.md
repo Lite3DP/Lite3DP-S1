@@ -20,7 +20,7 @@ There are two common issues that could be happening:
 
 1. Calibration of your resin (do this first!), as each resin is different and needs a special start/layer time - per resin!
 
-Every resin, even refills, needs to be calibrated on a per printer basis. The Lite3DP is no exception. We are working on a [Calibration Guide](./Calibration) that explains how to calibrate your particular resin to maximize the results.
+Every resin, even refills, needs to be calibrated on a per printer basis. The Lite3DP is no exception. We are working on a [Calibration Guide](./Calibration%20guide) that explains how to calibrate your particular resin to maximize the results.
 
 2. UV LED is not spreading out.
 
