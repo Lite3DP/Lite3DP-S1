@@ -1,6 +1,6 @@
 # Lite3DP-S1
 
-Copyright (c) 2020, Lite3DP LLC
+Copyright 2020 LITE3DP LLC
 
 For additional information, please visit: https://lite3dp.com/download.html
 
